@@ -19,7 +19,7 @@
     "sr": "Model voza",
     "tr": "Tren Modeli",
     "uk": "Модель поїзда",
-    "zh-CN": "火车模型",
+    "zh-CN": "列车模型",
     "zh-TW": "火車模型"
   },
   "description": {
@@ -41,7 +41,7 @@
     "sr": "Ručno izrađeni sa svim detaljima podvozja, ovi modeli nude iznenađujuće zamršen šematski prikaz lokomocije iz vremena pre Exodusa.",
     "tr": "Alt gövde ayrıntıları tamamen işlenmiş el yapımı bu modeller, Exodus öncesi ulaşımın şaşırtıcı derecede karmaşık bir şemasını sunar.",
     "uk": "Створені вручну з повною деталізацією нижньої частини, ці моделі пропонують напрочуд складну схему пересування часів до Exodus.",
-    "zh-CN": "这些手工制作的模型连底盘细节都一应俱全，呈现出一幅关于 Exodus 之前机车运行的惊人复杂示意图。",
+    "zh-CN": "纯手工制作，底盘细节完整复刻，清晰展现了“离巢”时代之前机车复杂的内部构造。",
     "zh-TW": "這些手工製作的模型連底盤細節都一應俱全，呈現出一幅關於 Exodus 之前機車運行的驚人複雜示意圖。"
   },
   "type": "Trinket",
