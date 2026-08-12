@@ -19,8 +19,12 @@
     "sr": "Gomila video-kaseta",
     "tr": "Film kasetleri yığını",
     "uk": "Стос відеокасет",
-    "zh-CN": "一叠录像带",
+    "zh-CN": "一堆电影录像带",
     "zh-TW": "一疊錄影帶"
+  },
+  "description": {
+    "zh-CN": "一堆电影录像带，肯定能让最挑剔的电影爱好者狂喜不已。",
+    "zh-TW": "一堆電影錄像帶，肯定能讓最挑剔的電影愛好者狂喜不已。"
   },
   "type": "Trinket",
   "rarity": "Common",
